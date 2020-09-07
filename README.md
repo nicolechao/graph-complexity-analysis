@@ -32,7 +32,7 @@ For complexity analysis of global structure,
 ## Deliverables
 1. Code
  - [Graph Generation](https://github.com/nicolechao/graph-complexity-analysis/tree/master/Graph%20Generation)
- - Data Wrangling
+ - [Data Wrangling](https://github.com/nicolechao/graph-complexity-analysis/tree/master/Data%20Wrangling)
  - Exploratory data analysis
  - Deep learning modeling
 2. [Generated Data](https://github.com/nicolechao/graph-complexity-analysis/tree/master/Data)
